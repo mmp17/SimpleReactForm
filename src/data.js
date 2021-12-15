@@ -1,18 +1,22 @@
 export const characters = [
     {
-      name: 'Charlie',
-      job: 'Janitor',
+      name: 'Ahmad Boy',
+      job: 'General',
     },
     {
-      name: 'Mac',
-      job: 'Bouncer',
+      name: 'John Dow',
+      job: 'Teacher',
     },
     {
-      name: 'Dee',
-      job: 'Aspring actress',
+      name: 'Ahmad Nessar',
+      job: 'Professor',
     },
     {
-      name: 'Dennis',
-      job: 'Bartender',
+      name: 'Bob Thomson',
+      job: 'Developer',
+    },
+    {
+        name: 'Ahmad Shakh',
+        job: 'Student',
     },
   ]

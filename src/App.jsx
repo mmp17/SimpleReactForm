@@ -24,9 +24,10 @@ class App extends Component {
 
     render() {
         const { characters } = this.state;
-        
+
       return (
         <div className="container">
+            <h1>React Props & State App</h1>
           <Table characterData={characters} removeCharacter={this.removeCharacter}/>
         </div>
       )
